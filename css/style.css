@@ -1,0 +1,21 @@
+#my-output{
+    display: flex;
+    justify-content: space-around;
+}
+
+#my-output ul{
+    list-style-type: none;
+    line-height: 1.8;
+}
+
+.c-red{
+    color: red;
+}
+
+.c-blue{
+    color: blue;
+}
+
+.c-green{
+    color: green;
+}
